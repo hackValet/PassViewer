@@ -9,7 +9,7 @@ This application only works for Windows OS.
 
 < Português >
  # Visualizador de Senhas
-Programa Win, que guarda na pasta "Drive" as Passwords gravadas no browser de forma totalmente silenciosa. Deve ser colocado na raiz da pen-drive. Desenvolvido com base do software do NirSoft.
+Programa Win, que guarda na pasta "Drive" as Passwords gravadas no browser de forma totalmente silenciosa. Deve ser colocado na raiz da pen-drive. Desenvolvido com base no software do NirSoft.
 
 O ficheiro "launch_bat.vbs" oculta o terminal inicial que aparece momentaneamente quando é executado o "launch.bat".
 Por sua vez o "launch.bat" é o responsavel principal pela execução do programa para visualização das Passwords.
